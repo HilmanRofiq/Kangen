@@ -55,14 +55,14 @@
 */
 const messages = [
     "Ah yang bener?",
-    "Seriusan Gak mau??",
-    "Kamu sehat kan?",
-    "Ayo dong cantik...",
-    "Coba pikir lagi deh!",
-    "Kalau enggak mau, aku cedih banget..",
+    "gak usah malu malu gitu..",
+    "ish gengsi amat cih🤭",
+    "Ngomong aja gapapa",
+    "Seriusan kamu gak kangen!?",
+    "Kalau enggak, aku cedih banget..",
     "Asli beneran sedih😢",
     "Kamu tega buat aku sedih🥲",
-    "Ok fine, I will stop asking...",
+    "Ok fine, aku berhenti...",
     "Just kidding, say yes please! ❤️"
 ];
 
