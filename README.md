@@ -1,0 +1,2 @@
+# Kangen
+jikalau anda kangen
