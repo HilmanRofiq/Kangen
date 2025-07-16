@@ -1,2 +1,2 @@
 # Kangen
-jikalau anda kangen
+jikalau anda kangen, coba buka web ini.
